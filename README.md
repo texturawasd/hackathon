@@ -2,8 +2,10 @@
 
 Pequeña SPA estática para demo de 5 minutos: restaurantes publican ofertas de último minuto para evitar desperdicio.
 
-Cómo abrir (modo rápido):
 
+Testeable en https://texturawasd.ddns.net/savebite
+
+Cómo abrir en local (modo rápido):
 1. Abrir `index.html` en un navegador.
 2. O servir con un servidor estático (recomendado):
 desde la raíz del repo para luego abrir http://localhost:8000
