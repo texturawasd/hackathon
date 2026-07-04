@@ -3,7 +3,7 @@
 Pequeña SPA estática para demo de 5 minutos: restaurantes publican ofertas de último minuto para evitar desperdicio.
 
 
-Testeable en https://texturawasd.ddns.net/savebite
+Testeable en https://savebite.texturawasd.net
 
 Cómo abrir en local (modo rápido):
 1. Abrir `index.html` en un navegador.
